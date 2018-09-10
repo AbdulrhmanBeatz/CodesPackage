@@ -1,0 +1,22 @@
+{
+  "name": "codes-package",
+  "version": "0.0.1",
+  "description": "Package For Codes Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AboOoDYOG/CodesPackage.git"
+  },
+  "keywords": [
+    "codes"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AboOoDYOG/CodesPackage/issues"
+  },
+  "homepage": "https://github.com/AboOoDYOG/CodesPackage#readme"
+}
