@@ -7,10 +7,6 @@ class Client {
     this.client = client;
   }
 
-  constructor(){
-    throw new Error('You must enter a discord client in argument.')
-  }
-
 }
 
 module.exports = Client;
