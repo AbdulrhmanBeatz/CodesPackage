@@ -1,6 +1,6 @@
 {
   "name": "codes-package",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Package For Codes Server.",
   "main": "./src/index.js",
   "scripts": {
